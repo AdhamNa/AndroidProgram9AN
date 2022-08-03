@@ -1,8 +1,8 @@
-// This is version 1
+// This is version 2
 fun main() {
-    val number1 : Byte = 12
-    val number2:Byte = 127
-    val result = number1+number2
+    val No1:Float = 26.0f
+    val No2:Byte = 20
+    val result = No1+No2
     println(result)
 
 }
